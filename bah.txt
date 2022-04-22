@@ -45,3 +45,10 @@ password : "minhasenha123"
 password : 'minhasenha123'
 
 id = ABC123
+
+
+apikey dropbox= bda46abfdcaAAAAAAA--3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea1
+apikey: bda46abfdcaAAAAAAA--3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea1
+
+accesstoken="jM06Xp1WUY0AAAAAAAAAAaGwqJv3BYdwgz6OWAvPsueuj4yC2VUcvnreJzbZwUQZ"
+apikey: jM06Xp1WUY0AAAAAAAAAAaGwqJv3BYdwgz6OWAvPsueuj4yC2VUcvnreJzbZwUQZ
