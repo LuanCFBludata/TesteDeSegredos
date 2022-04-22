@@ -31,6 +31,17 @@ KEY = SARRADA_NO_AR_GALATICA
 
 pass = admin123
 
+password=minhasenha123
+password="minhasenha123"
+password='minhasenha123'
 password = minhasenha123
+password = "minhasenha123"
+password = 'minhasenha123'
+password: minhasenha123
+password: "minhasenha123"
+password: 'minhasenha123'
+password : minhasenha123
+password : "minhasenha123"
+password : 'minhasenha123'
 
 id = ABC123
