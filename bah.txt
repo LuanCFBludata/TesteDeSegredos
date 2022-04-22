@@ -20,9 +20,13 @@ PEGOU
 client id =  ABIAX52MPYOTPRUCRC22
 CLIENT SECRET = hjshnk5ex5u34565d4654HJKGjhz545d89sjkjak
 
-bitfinex
-key = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
-secret = 9c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+- text: >
+    bitfinex
+    key = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+    secret = 9c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+  client_id: 3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+  client_secret: 9c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+
 
 KEY = SARRADA_NO_AR_GALATICA
 
