@@ -7,3 +7,17 @@ usuario: admin
 usuario: luan.froehlich
 
 senha: sjhf3sd3k4jb6s7kj88vbr3kjs423bv
+
+<anypoint.platform.client_id>431c62992fda9ee2b6a7f8dfc374e942</anypoint.platform.clientid>
+<anypoint.platform.client_secret>e4D62e8c5c5a6c06eDE090a399ADDFeb</anypoint.platform.client_secret>
+
+i=JTvXRY1pCeLp1tyXdDDgk1KyUu1VIXTc
+    s=_Yzv7l7Z8DdZ79JfR40JJWhabWSTp5XWFDRuTlGqTLMtMXwzrml81Z5CRpYJ3XSj
+    d=gg-test.auth0.com
+	
+client id =  ABIAX52MPYOTPRUCRC22
+CLIENT SECRET = hjshnk5ex5u34565d4654HJKGjhz545d89sjkjak
+
+bitfinex
+key = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
+secret = 9c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
