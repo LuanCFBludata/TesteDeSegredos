@@ -20,7 +20,6 @@ PEGOU
 client id =  ABIAX52MPYOTPRUCRC22
 CLIENT SECRET = hjshnk5ex5u34565d4654HJKGjhz545d89sjkjak
 
-- text: >
     bitfinex
     key = 3c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
     secret = 9c0c3965368a6b10f7640dbda46abfd23a4d1c245ea
